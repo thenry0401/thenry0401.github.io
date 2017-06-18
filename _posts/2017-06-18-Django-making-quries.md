@@ -1,4 +1,7 @@
-# django - Making queries
+---
+layout: post
+title:  "Django 문서의 'Making quries' 정리"
+categories: jekyll update
 ---
 
 ## Creating objects
