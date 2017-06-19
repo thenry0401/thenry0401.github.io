@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Django 문서의 'Making quries' 정리"
 categories: jekyll update
 ---

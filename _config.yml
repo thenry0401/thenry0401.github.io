@@ -33,4 +33,17 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+# other settings
 timezone: Asia/Seoul
+
+# disqus settings
+disqus:
+  id: "thenry0401"
+
+defaults:
+  -
+    scope:
+      path: "" # 이 빈 문자열은 프로젝트 내의 모든 파일을 의미한다
+      type: "posts"
+    values:
+      layout: "default"
